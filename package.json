@@ -1,7 +1,7 @@
 {
   "name": "@cloudparker/easy-countrydata-india",
-  "version": "1.0.0",
-  "description": "Library to get indian states, disctricts, city and pincode information",
+  "version": "1.0.1",
+  "description": "This is a comprehensive library for managing Indian postal PIN code data. It is designed to be lightweight and efficient, making it an ideal choice for both browser and Node.js environments",
   "main": "dist/index.js",
   "scripts": {
     "build": "npm run build:prod",

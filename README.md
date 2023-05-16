@@ -1,5 +1,21 @@
 # easy-countrydata-india
-Library to get indian states, disctricts, city and pincode information. (600KB)
+
+`easy-countrydata-india` is a comprehensive library for managing Indian postal PIN code data. It is designed to be lightweight and efficient, making it an ideal choice for both browser and Node.js environments.
+
+The main objective of `easy-countrydata-india` is to provide an easy-to-use interface for accessing and manipulating data related to Indian geography. This includes:
+
+- **Indian States:** Retrieve information and statistics about different states in India.
+- **Districts:** Access detailed data about the various districts within each state.
+- **Cities:** Get insights into cities across the country, including demographic data and geographic details.
+- **Pincodes:** A complete directory of Indian postal PIN codes, allowing you to easily link geographic locations with their corresponding postal codes.
+
+Whether you're developing a location-based service, conducting geographic research, or simply need a reliable source of Indian geographic data, `easy-countrydata-india` provides a robust and efficient solution.
+
+## Repository
+
+To contribute or learn more, visit our GitHub repository: 
+
+[github.com/paramanandapradhan/easy-countrydata-india](https://github.com/paramanandapradhan/easy-countrydata-india)
 
 # Install 
 
